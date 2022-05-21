@@ -16,5 +16,4 @@ for(int i=n-1;i>=0;i--)
 break;}
 }
 cout<<endl;}
-	return 0;
-}
+	return 0;}
